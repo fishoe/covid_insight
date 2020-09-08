@@ -1,0 +1,89 @@
+policy_id,country,type,gov_policy,detail,start_date,end_date,color
+1,Korea,Alert,Infectious Disease Alert Level,Level 1 (Blue),2020-01-03,2020-01-19,g
+2,Korea,Alert,Infectious Disease Alert Level,Level 2 (Yellow),2020-01-20,2020-01-27,g
+3,Korea,Alert,Infectious Disease Alert Level,Level 3 (Orange),2020-01-28,2020-02-22,y
+4,Korea,Alert,Infectious Disease Alert Level,Level 4 (Red),2020-02-23,,y
+5,Korea,Immigration,Special Immigration Procedure,from China,2020-02-04,,m
+6,Korea,Immigration,Special Immigration Procedure,from Hong Kong,2020-02-12,,m
+7,Korea,Immigration,Special Immigration Procedure,from Macau,2020-02-12,,m
+8,Korea,Immigration,Special Immigration Procedure,from Japan,2020-03-09,,m
+9,Korea,Immigration,Special Immigration Procedure,from Italy,2020-03-12,,m
+10,Korea,Immigration,Special Immigration Procedure,from Iran,2020-03-12,,m
+11,Korea,Immigration,Special Immigration Procedure,from France,2020-03-15,,m
+12,Korea,Immigration,Special Immigration Procedure,from Germany,2020-03-15,,m
+13,Korea,Immigration,Special Immigration Procedure,from Spain,2020-03-15,,m
+14,Korea,Immigration,Special Immigration Procedure,from U.K.,2020-03-15,,m
+15,Korea,Immigration,Special Immigration Procedure,from Netherlands,2020-03-15,,m
+16,Korea,Immigration,Special Immigration Procedure,from Europe,2020-03-16,,m
+17,Korea,Immigration,Special Immigration Procedure,from all the countries,2020-03-19,,m
+18,Korea,Immigration,Mandatory 14-day Self-Quarantine,from all the countries,2020-04-01,,m
+19,Korea,Immigration,Mandatory Self-Quarantine & Diagonostic Tests,from U.S.,2020-04-13,,m
+20,Korea,Health,Emergency Use Authorization of Diagnostic Kit,1st EUA,2020-02-04,,y
+21,Korea,Health,Emergency Use Authorization of Diagnostic Kit,2nd EUA,2020-02-12,,y
+22,Korea,Health,Emergency Use Authorization of Diagnostic Kit,3rd EUA,2020-02-27,,y
+23,Korea,Health,Emergency Use Authorization of Diagnostic Kit,4th EUA,2020-02-27,,y
+24,Korea,Health,Emergency Use Authorization of Diagnostic Kit,5th EUA,2020-03-13,,y
+25,Korea,Health,Drive-Through Screening Center,by Local Government,2020-02-26,,m
+26,Korea,Health,Drive-Through Screening Center,Standard Operating Procedures,2020-03-04,,m
+27,Korea,Health,Mask Distribution,Public-Sale,2020-02-27,,m
+28,Korea,Health,Mask Distribution,5-day Rotation System,2020-03-09,,m
+29,Korea,Social,Social Distancing Campaign,Strong,2020-03-22,2020-04-05,r
+30,Korea,Social,Social Distancing Campaign,Strong,2020-04-06,2020-04-19,r
+31,Korea,Social,Social Distancing Campaign,Weak,2020-04-20,2020-05-05,m
+32,Korea,Social,Thanks to Challenge korea,Relay Cheer Campaign in SNS,2020-04-16,,g
+33,Korea,Education,School Closure,Daycare Center for Children,2020-03-02,,m
+34,Korea,Education,School Opening Delay,Kindergarten,2020-03-02,2020-04-06,y
+35,Korea,Education,School Opening Delay,High School,2020-03-02,2020-04-06,y
+36,Korea,Education,School Opening Delay,Middle School,2020-03-02,2020-04-06,y
+37,Korea,Education,School Opening Delay,Elementary School,2020-03-02,2020-04-06,y
+38,Korea,Education,School Opening with Online Class,High School (3rd grade),2020-04-09,2020-05-20,m
+39,Korea,Education,School Opening with Online Class,High School (2nd grade),2020-04-16,2020-05-27,m
+40,Korea,Education,School Opening with Online Class,High School (1st grade),2020-04-16,2020-06-03,m
+41,Korea,Education,School Opening with Online Class,Middle School (3rd grade),2020-04-09,2020-05-27,m
+42,Korea,Education,School Opening with Online Class,Middle School (2nd grade),2020-04-16,2020-06-03,m
+43,Korea,Education,School Opening with Online Class,Middle School (1st grade),2020-04-16,2020-06-08,m
+44,Korea,Education,School Opening with Online Class,Elementary School (5th ~ 6th grade),2020-04-16,2020-06-08,m
+45,Korea,Education,School Opening with Online Class,Elementary School (4th grade),2020-04-16,2020-06-03,m
+46,Korea,Education,School Opening with Online Class,Elementary School (3rd grade),2020-04-20,2020-06-03,m
+47,Korea,Education,School Opening with Online Class,Elementary School (1st ~ 2nd grade),2020-04-20,2020-05-27,m
+48,Korea,Technology,Open Data ,Patients Information,2020-01-20,,y
+49,Korea,Technology,Open API,Public Mask Sales Information,2020-03-08,,y
+50,Korea,Technology,Self-Diagnosis App,,2020-02-12,,y
+51,Korea,Technology,Self-Quarantine Safety Protection App,,2020-03-07,,y
+52,Korea,Technology,Electronic Wristbands,on people who violate self-quarantine measures,2020-04-27,,y
+53,Korea,Administrative,Close bars and clubs,administrative order to close bars and clubs,2020-05-08,2020-06-07,r
+54,Korea,Administrative,local government Administrative orders,Gathering limited administrative orders for nursing homes. nursing homes. elderly day care centers and mental hospitals used by vulnerable groups,2020-05-16,,y
+55,Korea,Administrative,Close karaoke,Ban on gathering for 2 weeks for all karaoke and coin karaoke,2020-05-21,2020-06-03,m
+56,Korea,Transformation,Logistics center,On-site inspection of major logistics facilities such as courier terminals and warehouses,2020-05-29,2020-06-11,m
+57,Korea,Transformation,Wearing of masks,Mandatory wearing of passenger mask domestic. international teminal in the airport,2020-05-27,,r
+58,Korea,Transformation,Wearing of masks,Drivers such as buses and taxis can refuse to ride passengers without masks,2020-05-26,,r
+59,Korea,Administrative,Enhanced infectious disease prevention and control measures,about Izakaya. singing practice. academy. PC cafe in the metropolitan area,2020-05-29,2020-06-14,y
+60,Korea,Administrative,Suspension of public facilities operation,in the metropolitan area,2020-05-29,,m
+61,Korea,Education,Cancellation of temporary closure,Daycare Center for Children,2020-06-01,,y
+62,Korea,Administrative,KI-PASS,customer register QR code based entry logs mandatorily,2020-06-10,2020-06-30,y
+63,Korea,Administrative,KI-PASS,customer register QR code based entry logs mandatorily (Improving),2020-06-18,2020-06-30,y
+64,Korea,Administrative,Enhanced infectious disease prevention and control measures,about buffet. large academy. logistics center. Izakaya. singing practice. academy. PC cafe in the metropolitan area,2020-06-23,,m
+65,Korea,Transformation,Port quarantine measures and strengthening management,Piers with infections are closed until the 26th,2020-06-23,,m
+66,Korea,Administrative,Distribution of summer vacation for public officials,Recommended vacation use per week,2020-06-29,2020-09-18,y
+67,Korea,Administrative,Strengthening quarantine,Do not close. contact. congestion about Restaurants,2020-06-24,,m
+68,Korea,Administrative,The reporting system of the people,about violation of Corona 19 Prevention Regulations,2020-06-26,,m
+69,Korea,Health,Partial non-contact visit to nursing hospital,Advance reservation. visit record preparation,2020-07-01,,y
+70,Korea,Administrative,Strengthening quarantine,No worship except for regular worship,2020-07-10,,m
+71,Gwangju,Social,Social Distancing Campaign,Level 2,2020-07-02,,r
+72,Korea,Administrative,Strengthen self-qurantine,Introducing self-isolation app and GIS status board. applying the principle of zero tolerance for unauthorized departure,2020-07-07,,r
+73,Korea,Immigration,Management plan for overseas immigrants,Mandatory submission of PCR negative confirmation,2020-07-13,,m
+74,Jeollanam-do,Administrative,Prevention measures for tourist attractions such as beaches,Entry is possible only by wearing a wristband after heating check,2020-07-19,,y
+75,Korea,Administrative,Resumption of public facilities,in the metropolitan area,2020-07-20,,g
+76,Chungcheongnam-do,Administrative,Prevention measures for tourist attractions such as beaches,Entry is possible only by wearing a wristband after heating check,2020-08-01,,y
+77,Korea,Transformation,Mandatory submission of PCR negative confirmation,Countries subject to strengthening quarantine and Russian ships,2020-08-03,,m
+78,Korea,Administrative,Strengthening quarantine,Electronic access list (KI-Pass) and thermal imaging camera at the entrance (Reinforcement plan for quarantine management at funeral homes),2020-08-19,,r
+79,Korea,Administrative,Strengthening quarantine,Additional designation as a high-risk facility (Measures to strengthen quarantine management at wedding halls),2020-08-19,,r
+80,Seoul,Social,Social Distancing Campaign,Level 2,2020-08-16,,r
+81,Korea,Administrative,Social Distancing Campaign,50 indoor and 100 outdoor gatherings prohibited,2020-08-19,,r
+82,Korea,Administrative,Measures to strengthen inspection of door-to-door vendors,Conduct inspection and reporting system for illegal door-to-door sales activities,2020-08-19,2020-09-11,r
+83,Seoul,Administrative,All gatherings of 10 or more are prohibited,Organizers and participants who violate the assembly ban shall be accused,2020-08-21,2020-08-30,r
+84,Korea,Education,Online learning support,Non-face-to-face religious activities and online learning support for elementary. middle and high schools,2020-08-22,2020-10-31,r
+85,Korea,Administrative,Strong administrative measures,In case of rejection of inspection and investigation,2020-08-21,,r
+86,Korea,Social,Social Distancing Campaign,Level 2,2020-08-23,,r
+87,Korea,Administrative,Wearing of masks,Mandatory wearing masks (Detail of Social Distancing Campaign),2020-08-25,,r
+88,Korea,Social,Social Distancing Campaign,Level 2.5,2020-08-26,2020-09-13,r
